@@ -1,0 +1,128 @@
+# Title: eelcohn/hosts
+#
+# This hosts file contains blocked hosts not found in other regular PiHole blocklists
+#
+# Date: Friday 11 April 2025 13:14:00 UTC
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/eelcohn/hosts/master/hosts
+# Project home page: https://github.com/eelcohn/hosts
+#
+# ===============================================================
+
+# Apple
+0.0.0.0 gateway.fe2.apple-dns.net
+0.0.0.0 gsas.idms-apple.com.akadns.net
+
+# Cisco
+0.0.0.0 activate.cisco.com
+
+# Cloudfare
+0.0.0.0 static.cloudflareinsights.com
+
+# DigiD
+0.0.0.0 statistiek.digid.nl
+
+# eBay
+0.0.0.0 mobiletelemetry.ebay.com
+
+# Google
+0.0.0.0 clienttracing-pa.googleapis.com
+0.0.0.0 crashlyticsreports-pa.googleapis.com
+0.0.0.0 db690791-d983-4af8-8dca-896c73c46882-panelresearch.googlevideo.com
+0.0.0.0 dns.google
+0.0.0.0 eligibility-panelresearch.googlevideo.com
+0.0.0.0 firebaselogging-pa.googleapis.com
+0.0.0.0 geomobileservices-pa.googleapis.com
+0.0.0.0 googleads.g.doubleclick.net
+
+# Giraffic
+0.0.0.0 srv.giraffic.com
+0.0.0.0 test.giraffic.com
+0.0.0.0 vcfd1.giraffic.net
+0.0.0.0 vcfd2.giraffic.net
+
+# Github
+0.0.0.0 collector.github.com
+
+# Headspace
+0.0.0.0 prod.logging.headspace.com
+
+# IMDB
+0.0.0.0 cdn.prod.metrics.imdb.com
+
+# iRobot
+0.0.0.0 unauth1.prod.iot.irobotapi.com
+0.0.0.0 unauth3.prod.iot.irobotapi.com
+
+# LG TV
+0.0.0.0 nl.info.lgsmartad.com
+0.0.0.0 nl.lgtvsdp.com
+
+# Metrological
+0.0.0.0 stats.metrological.com
+
+# Microsoft
+0.0.0.0 eu-mobile.events.data.microsoft.com
+0.0.0.0 mobile.events.data.microsoft.com
+
+# Mozilla
+0.0.0.0 incoming.telemetry.mozilla.org
+
+# Netflix
+0.0.0.0 assets.nflxext.com
+0.0.0.0 customerevents.netflix.com
+0.0.0.0 nrdp.nccp.netflix.com
+0.0.0.0 push.prod.netflix.com
+
+# Philips Hue
+0.0.0.0 diagnostics.meethue.com
+
+# Rabobank
+0.0.0.0 log.rabobank.nl
+
+# Samsung
+0.0.0.0 analytics.samsungknox.com
+0.0.0.0 cdn.samsungcloudsolution.com
+
+# Sony Playstation
+0.0.0.0 telemetry-console.api.playstation.com
+
+# Syncthing
+0.0.0.0 discovery-v4.syncthing.net
+0.0.0.0 discovery-v6.syncthing.net
+0.0.0.0 discovery.syncthing.net
+0.0.0.0 relays.syncthing.net
+0.0.0.0 stun.syncthing.net
+
+# Ubiquiti
+0.0.0.0 crash-report-service.svc.ui.com
+0.0.0.0 trace.svc.ui.com
+
+# Ziggo
+0.0.0.0 vbgs.ziggo.nl
+
+# Baidu
+0.0.0.0 www.baidu.com
+
+# Various / unsorted
+0.0.0.0 (\.|^)app-measurement\.com$
+0.0.0.0 (\.|^)apple-dns\.net$
+0.0.0.0 1.courier-sandbox-push-apple.com.akadns.net
+0.0.0.0 api.refiner.io
+0.0.0.0 api.statsig.com
+0.0.0.0 beacons.gcp.gvt2.com
+0.0.0.0 beacons.gvt2.com
+0.0.0.0 brahe.apptimize.com
+0.0.0.0 c-its-client-proxy.be-mobile.biz
+0.0.0.0 collect.tealiumiq.com
+0.0.0.0 config.ioam.de
+0.0.0.0 ensight-cmd.aminoengage.com
+0.0.0.0 ensight-cmd31.aminoengage.com
+0.0.0.0 firebase-settings.crashlytics.com
+0.0.0.0 hapselli.api.appboy.eu
+0.0.0.0 prod.log.stb.itvonline.nl
+0.0.0.0 reg3.bluemailapp.com
+0.0.0.0 report.appmetrica.yandex.net
+0.0.0.0 rkraft.coutant.xyz
+0.0.0.0 sb.scorecardresearch.com
+0.0.0.0 settings.crashlytics.com
