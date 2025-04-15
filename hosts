@@ -2,7 +2,7 @@
 #
 # This hosts file contains blocked hosts not found in other regular PiHole blocklists
 #
-# Date: Friday 11 April 2025 13:14:00 UTC
+# Date: Tuesday 15 April 2025 08:30:00 UTC
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/eelcohn/hosts/master/hosts
 # Project home page: https://github.com/eelcohn/hosts
@@ -53,6 +53,9 @@
 # iRobot
 0.0.0.0 unauth1.prod.iot.irobotapi.com
 0.0.0.0 unauth3.prod.iot.irobotapi.com
+
+# KPN IPTV Settop box
+0.0.0.0 prod.log.stb.itvonline.nl
 
 # LG TV
 0.0.0.0 nl.info.lgsmartad.com
@@ -118,11 +121,10 @@
 0.0.0.0 config.ioam.de
 0.0.0.0 ensight-cmd.aminoengage.com
 0.0.0.0 ensight-cmd31.aminoengage.com
-0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 hapselli.api.appboy.eu
-0.0.0.0 prod.log.stb.itvonline.nl
 0.0.0.0 reg3.bluemailapp.com
 0.0.0.0 report.appmetrica.yandex.net
 0.0.0.0 rkraft.coutant.xyz
 0.0.0.0 sb.scorecardresearch.com
+0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 settings.crashlytics.com
